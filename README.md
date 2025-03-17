@@ -1,4 +1,4 @@
-# k-NN as a Simple and Effective Estimator of Transferability
+## k-NN as a Simple and Effective Estimator of Transferability
 
 __Abstract.__ How well can one expect transfer learning to work
 in a new setting where the domain is shifted, the
@@ -17,3 +17,7 @@ commonly used to evaluate feature quality for self-
 supervision – not only surpasses existing metrics,
 but also offers better computational efficiency and
 ease of implementation.
+
+<div align="center" style="margin-top: 2px;">
+  <img src="overall_corr-w_kendall-1.png" width="80%">
+</div>
